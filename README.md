@@ -2,4 +2,4 @@
 
 Проект подготовлен для вебинара в сообществе NewTechAudit
 
-Ссылка на вебинар: https://newtechaudit.ru/kak-dobyt-json-s-sajta/
+Ссылка на вебинар: https://newtechaudit.ru/onlajn-vebinar-analiz-otzyvov-klientov-razmeshhyonnyh-v-internet/
